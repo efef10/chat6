@@ -1,0 +1,30 @@
+.edit{
+    margin:100px auto;
+    border:5px solid #075e54;
+    padding:30px;
+    border-radius: 5px;
+}
+
+
+.edit h1{
+    text-align: center;
+    margin-top:0;
+}
+
+.editItem{
+    display:flex;
+    flex-direction: row;
+    margin-bottom:20px;
+}
+
+.editItem label{
+    width:100%;
+    margin-right:5px;
+}
+
+.edit input[type="submit"]{
+    margin:auto;
+    width:50%;
+    height:10%;
+    display:block;
+}
